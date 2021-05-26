@@ -141,3 +141,8 @@
     font-size: 27px;
   }
 }
+
+h3,
+h2 {
+  text-transform: uppercase;
+}
