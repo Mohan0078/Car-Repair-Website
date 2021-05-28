@@ -146,3 +146,33 @@ h3,
 h2 {
   text-transform: uppercase;
 }
+
+.testimonial {
+  margin: 25px;
+}
+
+#testimonials {
+  background-color: #f1f1f1;
+  margin: 5px;
+}
+
+#about {
+  margin-top: 5px;
+  background-color: #f1f1f1;
+  height: 500px;
+}
+.about {
+  height: 350px;
+  font-size: 17px;
+}
+
+.leftQuote {
+  font-size: 23px;
+  color: orange;
+}
+
+@media (max-width: 768px) {
+  .testimonial {
+    margin-left: 0;
+  }
+}
